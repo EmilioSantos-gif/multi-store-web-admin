@@ -1,7 +1,6 @@
 # multi_store_web
 
-A new Flutter project.
-
+Multi Store Web Admin Panel. By Emilio Santos | 1091415
 ## Getting Started
 
 This project is a starting point for a Flutter application.
